@@ -1,4 +1,4 @@
-#MongoDB Insert and Query
+##MongoDB Insert and Query
 
 For this section's assessment, you will fill out the functions defined in
 `interface.js`. These functions will query a collection of movies - the
